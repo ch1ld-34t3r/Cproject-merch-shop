@@ -1,0 +1,80 @@
+			
+
+			Project idea: 
+		  Clothing/merchandise website
+	............................................
+
+	• Who is the client? 
+
+	— A small clothing brand.  
+	//         And/Or        //
+	— A merchandise manufacturer.
+	
+	• Profit model:
+
+	— Direct sales from the website.
+	— Imo any other form of website monetisation would 
+	be unnecessary and it would only ruin user experience.
+	— If there are sponsors, their section is footer. 
+	
+	............................................
+
+	• Functionality: 
+
+	— Sell clothes 🙄
+
+	• Design/Features: 
+
+	— The website should be consice, as few pages
+	as possible. 
+	
+	— Prices are always shown on the first line of 
+	item description.
+	
+	— Login, About, Contact and Item menus should be 
+	designed as modal boxes.
+
+	— Round corners everywhere!!! 
+
+	— All the elements on my penicl drawn layouts are
+	purposely made small-scaled to fit everything on screen.
+	When actually doint the project, 
+
+	............................................
+
+	• Reference:	
+	
+	— Stolen from: 
+	https://dismiss.store/
+
+	............................................
+	
+	• Personal notes: 
+
+	— It's worth to try a couple of #item layouts: one with 
+	description within the picture that appears on hover.
+	After a while I thought that i might need to change it to
+	always visible but half-transparent. On hover it would be
+	fully visible. 
+	— If that looks ugly I'll just make item descriptions 
+	appear under the item pictures like every normal person.
+
+	— I'm too tired to think of client's profile settings
+	and page for it so i'll do it later 🥱😴
+	Making a note so I don't forget!!!
+
+	— I'll need to consider adding social media buttons.
+
+	............................................
+
+
+	• Fonts 😛
+
+	— Headers - Krona one
+	https://fonts.google.com/specimen/Krona+One
+
+	— Regular - Metrophobic
+	https://fonts.google.com/specimen/Metrophobic
+	
+	— Footer - Sarpanch 
+	https://fonts.google.com/specimen/Sarpanch
